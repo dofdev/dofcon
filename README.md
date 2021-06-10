@@ -9,7 +9,12 @@ tactile analog hand tracking technology
 
 <img src="https://github.com/dofdev/dofcon/blob/main/history/2021-4-19_dofcon.gif" width="300px">
 
+<br>
 
-<h2>collaborate</h2>
+<h3>let's bring this to life!</h3>
 
-upload files to the history folder following the naming convention pattern [ YYYY-MM-DD_title ]<br>
+talk with us in twitter spaces <a href="https://twitter.com/opendegree">@opendegree</a> <a href="https://twitter.com/spatialfree">@spatialfree</a>
+
+& 
+
+upload files to the history folder following the naming convention pattern [ YYYY-MM-DD_title ]
