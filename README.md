@@ -13,8 +13,4 @@ tactile analog hand tracking technology
 
 <h3>let's bring this to life!</h3>
 
-talk with us in twitter spaces <a href="https://twitter.com/opendegree">@opendegree</a> <a href="https://twitter.com/spatialfree">@spatialfree</a>
-
-& 
-
 upload files to the history folder following the naming convention pattern [ YYYY-MM-DD_title ]
