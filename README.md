@@ -7,4 +7,4 @@ tactile analog hand tracking technology
 <sub>CERN Open Hardware License Version 2 - Strongly Reciprocal  
 © 2021 dofdev</sub>
 
-<img src="https://github.com/dofdev/dofcon/blob/main/history/2020-10-08_theway.jpg" width="256px">
+<img src="https://github.com/dofdev/dofcon/blob/main/history/2021-4-19_dofcon.gif" width="300px">
