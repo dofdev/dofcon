@@ -1,6 +1,8 @@
 # dofcon
 tactile analog hand tracking technology
 
+<b>creates a three dimensional cursor point on each appendage, for use in computational applications.</b>
+
 <br>
 
 **CERN OHL V 2.0 - S**  
