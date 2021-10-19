@@ -15,4 +15,5 @@ tactile analog hand tracking technology
 
 <h3>let's bring this to life!</h3>
 
-upload files to the history folder following the naming convention pattern [ YYYY-MM-DD_title ]
+submit pull requests to the history folder following the naming convention pattern [ YYYY-MM-DD_title ]
+<br>so your contribution is fully credited and logged!
