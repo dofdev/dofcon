@@ -1,7 +1,7 @@
 # dofcon
 tactile analog appendage tracking technology
 
-for spatial computational applications
+<b>for use in computational applications through positionally tracked appendages</b>
 
 <br>
 
