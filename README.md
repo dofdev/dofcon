@@ -1,7 +1,6 @@
 # dofcon
-tactile analog hand tracking technology
-
-<b>creates a three dimensional cursor point on each appendage, for use in computational applications.</b>
+tactile analog appendage spatial tracking technology, 
+<br>for use in computational applications.
 
 <br>
 
