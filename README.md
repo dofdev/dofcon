@@ -1,7 +1,7 @@
 # dofcon
 tactile analog appendage tracking technology
 
-<b>With a linear potentiometer that extends out from a 2 axis rotary potentiometer, the 3d position of each appendage tip can be derived. for use in all compatible computational applications.</b>
+<b>with a linear potentiometer that extends out from a 2 axis rotary potentiometer, the 3d position of each appendage tip can be derived. for use in computational applications.</b>
 
 <br>
 
