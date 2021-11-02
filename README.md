@@ -5,10 +5,9 @@ tactile analog appendage tracking technology
 
 <br>
 
-**UNLICENSE**  
-<sub>This is free and unencumbered software released into the public domain.  
-<https://unlicense.org/>  
-</sub>
+<sub> This is free and unencumbered software released into the public domain.&nbsp;&nbsp;&nbsp;**UNLICENSE**&nbsp;&nbsp;<https://unlicense.org/></sub>
+
+<br>
 
 <img src="https://github.com/dofdev/dofcon/blob/main/history/2021-4-19_dofcon.gif" width="300px">
 
