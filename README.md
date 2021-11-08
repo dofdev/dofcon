@@ -1,7 +1,7 @@
 # dofcon
 tactile analog appendage tracking technology
 
-<b>through 3 strategically configured potentiometers dimensional appendage data can be derived, for use in computational applications.</b>
+<b>the degrees of freedom of an appendage is tracked through 3 potentiometers anchored to the base, for use in computational applications.</b>
 
 <sub>MIT License | Copyright © 2018-2021 dofdev</sub>
 
