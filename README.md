@@ -1,7 +1,7 @@
 # dofcon
 tactile analog appendage tracking technology
 
-<b>through a linear potentiometer that extends out from a 2 axis rotary potentiometer dimensional appendage data can be derived, for use in computational applications.</b>
+<b>through 3 strategically configured potentiometers dimensional appendage data can be derived, for use in computational applications.</b>
 
 <sub>MIT License | Copyright © 2018-2021 dofdev</sub>
 
