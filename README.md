@@ -12,7 +12,11 @@ tactile analog appendage tracking technology
 
 <br>
 
-<h3>let's bring this to life!</h3>
+let's bring this to life!
 
 submit pull requests to the history folder following the naming convention pattern [ YYYY-MM-DD_title ]
 <br>so your contribution is fully credited and logged!
+
+
+## direction
+analog multiplexer (to be able to handle all the analog signals)
